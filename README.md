@@ -1,4 +1,4 @@
 ## Spam Classification
 
-image.png
+
 
