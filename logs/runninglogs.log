@@ -1,0 +1,12 @@
+[2023-01-24 15:01:07,253] : [root] : [INFO] : [Prediction has started for : I want to check the sentences whether it is spam or not ]
+[2023-01-24 15:01:07,254] : [root] : [INFO] : [Prediction Result: I want to check the sentences whether it is spam or not  is : Not a Spam Message]
+[2023-01-24 16:08:20,427] : [root] : [INFO] : [Prediction has started for : dophfaldshfpasdhfoiasdhfoiasd]
+[2023-01-24 16:08:20,428] : [root] : [INFO] : [Prediction Result: dophfaldshfpasdhfoiasdhfoiasd is : Not a Spam Message]
+[2023-01-24 16:14:07,361] : [root] : [INFO] : [Prediction has started for : this is the message to check dockrer]
+[2023-01-24 16:14:07,363] : [root] : [INFO] : [Prediction Result: this is the message to check dockrer is : Not a Spam Message]
+[2023-01-24 16:34:17,068] : [root] : [INFO] : [Prediction has started for : dafasdf]
+[2023-01-24 16:34:17,072] : [root] : [INFO] : [Prediction Result: dafasdf is : Not a Spam Message]
+[2023-01-24 16:37:37,565] : [root] : [INFO] : [Prediction has started for : this is my essage
+]
+[2023-01-24 16:37:37,567] : [root] : [INFO] : [Prediction Result: this is my essage
+ is : Not a Spam Message]
